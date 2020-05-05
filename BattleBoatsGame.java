@@ -1,4 +1,4 @@
-// written by domah001 and omoto011
+// written by Nilesh Domah
 
 import java.util.Scanner;
 
