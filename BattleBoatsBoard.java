@@ -1,3 +1,5 @@
+// written by Nilesh Domah
+
 import java.util.Scanner;
 
 public class BattleBoatsBoard {
