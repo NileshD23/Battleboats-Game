@@ -1,5 +1,3 @@
-// written by domah001 and omoto011
-
 import java.util.Scanner;
 
 public class BattleBoatsBoard {
